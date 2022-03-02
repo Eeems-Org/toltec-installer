@@ -29,7 +29,7 @@
     "@types/node-forge": "^0.9.5",
     "babel-loader": "^8.2.2",
     "fork-ts-checker-webpack-plugin": "^6.0.5",
-    "keypair": "^1.0.1",
+    "keypair": "^1.0.4",
     "node-forge": "^1.0.0",
     "react": "^17.0.1",
     "react-router": "^5.2.0",
