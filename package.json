@@ -33,7 +33,7 @@
     "node-forge": "^1.0.0",
     "react": "^17.0.1",
     "react-router": "^5.2.0",
-    "ssh2": "^0.8.9",
+    "ssh2": "^1.4.0",
     "typestub-keypair": "0.0.0"
   },
   "devDependencies": {
